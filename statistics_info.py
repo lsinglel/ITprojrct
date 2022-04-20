@@ -99,3 +99,5 @@ class StatisticsInfo(object):
         plt.legend(loc="upper left")
 
         plt.show()
+        
+        第一次代码提交，做第一次测试。
