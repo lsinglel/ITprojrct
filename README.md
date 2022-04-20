@@ -1,3 +1,2 @@
 # ITprojrct
-IT project management
-This is a course assignment test of IT project management
+这仅仅是一个IT项目管理课程的一个实验测试。
